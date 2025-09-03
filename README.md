@@ -1,6 +1,6 @@
 <!-- Logo -->
 <div align="center">
-  <img src="assets/logo.png" alt="fast-project-backup logo" width="180">
+  <img src="logo.png" alt="fast-project-backup logo" width="180">
 </div>
 
 # fast-project-backup
